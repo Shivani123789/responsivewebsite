@@ -1,0 +1,19 @@
+.container{
+  padding-top: 0px;
+
+}
+.carousel-item{
+  width: 100%;
+}
+.container .row .col-sm-3 .my-image{
+	width: 252px;
+	height: 200px;
+}
+
+.img-jumbo{
+  background-image: url('img/img7.png');
+ background-size: 100%;
+}
+footer{
+  background-color: #222;
+}
